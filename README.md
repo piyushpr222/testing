@@ -22,7 +22,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 
 ## Guide
 
-- This button takes us to our newly created platform for eco-friendly products.<br></br>
+- This button takes us to our newly created platform for eco-friendly products.<br>
 <img src="/screenshots/greenovation_button.png" width="100" height="100"><br></br>
 - If an alternative greenovation product to an ordinary product is available, this button will be visibile to the customers.<br></br>
 <img src="/screenshots/available_button.png" width="100" height="100"><br></br>
