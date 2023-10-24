@@ -32,7 +32,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
     <p align="center"><img src="/screenshots/badge.gif" width="700" alt="Alt Text"></p>
 - The greenovation navigation bar contains new sections like<br>
     - Seller: In this section Amazon sellers can enlist their products in the Greenovation Zone after providing details about the manufacturing of their products.
-      <p align="center"><img src="/screenshots/seller.gif" width="700" alt="Alt Text"></p>
+      <p align="center"><img src="/screenshots/sellgif.gif" width="700" alt="Alt Text"></p>
     - Educational Section: This section aims to inform and educate customers about our ZERO WASTE INITIATIVE. <br>
         <p align="center"><img src="/screenshots/edugif.gif" width="700" alt="Alt Text"></p>
     - Sustainability Reports: Consists of Amazon's annual sustainability reports and the initiatives that it takes to reduce its carbon footprint. <br><br>
