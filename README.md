@@ -29,7 +29,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - Inside the Greenovation Zone, the products contain these badges which indicate their validity.
 ![badges](/screenshots/badges.png)
 - The customer can see futher details about the green parameters of the product on hovering over the badge.
-  <img src="/screenshots/badge_parameters.png" width="100" height="100">
+  <img src="https://github.com/piyushpr222/testing/blob/main/screenshots/badge_parameters.png" width="100" height="100">
 ![badge parameters](/screenshots/badge_parameters.png =100x100)
 - The greenovation navbar contains new sections like
     - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.
