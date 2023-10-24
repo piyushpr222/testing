@@ -23,8 +23,8 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 
 ## Guide
 
+<br><img src="/screenshots/greenovation_button.png" width="250"><br><br>
 - This button takes us to our newly created platform for eco-friendly products.<br>
-    <br><img src="/screenshots/greenovation_button.png" width="250"><br><br>
 - If an alternative greenovation product to an ordinary product is available, this button will be visible to the customers.<br>
     <p align="center"><img src="/screenshots/available_button.png" width="250"></p>
 - Inside the Greenovation Zone, the products contain these badges which indicate their validity.<br>
