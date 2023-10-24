@@ -3,6 +3,7 @@
 ## PROJECT OVERVIEW: 
 
 Our project integrates a web-based e-commerce platform with Amazon, with a focus on sustainability and environmentally friendly products. This project aims to integrate a separate section for green products, a badge rating system to showcase the product's environmental impact, and a box return system to encourage recycling and reduce waste.
+
 ## Key Objectives
 - Green Product Section: Provide a dedicated section for green and eco-friendly products, allowing users to browse and shop for sustainable items easily.
 - Badge Rating System: Implement a badge system that rates products based on their eco-friendliness. These badges should help customers identify environmentally responsible products.
@@ -23,9 +24,9 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 ## Guide
 
 - This button takes us to our newly created platform for eco-friendly products.<br>
-<p align="center"><img src="/screenshots/greenovation_button.png" width="250"></p>
+    <p align="center"><img src="/screenshots/greenovation_button.png" width="250"></p>
 - If an alternative greenovation product to an ordinary product is available, this button will be visible to the customers.<br><br>
-<p align="center"><img src="/screenshots/available_button.png" width="250" height="auto"></p><br><br>
+    <p align="center"><img src="/screenshots/available_button.png" width="250" height="auto"></p><br><br>
 - Inside the Greenovation Zone, the products contain these badges which indicate their validity.<br></br>
 <p align="center"><img src="/screenshots/badges.png" width="250" height="auto"></p><br></br>
 - The customer can see futher details about the green parameters of the product on hovering over the badge.<br></br>
