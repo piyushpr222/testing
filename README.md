@@ -32,14 +32,13 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - The customer can see futher details about the green parameters of the product on hovering over the badge.<br>
     <br><img src="/screenshots/badge_parameters.png" width="250"><br><br>
 - The greenovation navbar contains new sections like
+    <br><img src="/screenshots/navbargreen_buttons.png" width="500" ><br><br>
     - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.<br>
-        <br><img src="/screenshots/seller_form.png" width="250"><br><br>
     - Educational Section: <br>
     - Sustainability: <br>
-    <br><img src="/screenshots/navbargreen_buttons.png" width="250" ><br><br>
 - When a greenovation product is added to the cart it is indicated with "Eco-Friendly" mark. Two added buttons, "Feedback" and "Return the box", are added.
     - Feedback: This lets the customer to give review or report products that are incorrectly labelled.
     - Return the box: When a person clicks this button, and when a pre-defined threshold of that area is reached, then the customer is notified with the date of pick-up.<br>
-    <br><img src="/screenshots/feedback_and_returnbox.png" width="250"><br><br>
+    <br><img src="/screenshots/feedback_and_returnbox.png" width="700"><br><br>
 - When the boxes are collected, the customer is awarded with green bits, which can later be used for redeeming coupons and offers. Customers can keep track of     their green bits and other eco-friendly data with the help of this dashboard.<br>
-    <br><img src="/screenshots/dashboard.png" width="250"><br><br>
+    <br><img src="/screenshots/dashboard.png" width="700"><br><br>
