@@ -32,11 +32,11 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - The customer can see futher details about the green parameters of the product on hovering over the badge.<br>
     <p align="center"><img src="/screenshots/badge_parameters.png" width="250"></p>
 - The greenovation navbar contains new sections like
-    <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="250" ></p>
     - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.<br>
         <p align="center"><img src="/screenshots/seller_form.png" width="250"></p>
     - Educational Section: <br>
     - Sustainability: <br>
+    <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="250" ></p>
 - When a greenovation product is added to the cart it is indicated with "Eco-Friendly" mark. Two added buttons, "Feedback" and "Return the box", are added.
     - Feedback: This lets the customer to give review or report products that are incorrectly labelled.
     - Return the box: When a person clicks this button, and when a pre-defined threshold of that area is reached, then the customer is notified with the date of pick-up.<br>
