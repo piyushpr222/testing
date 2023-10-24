@@ -33,8 +33,8 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - The greenovation navbar contains new sections like
     - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.<br></br>
     <p align="center"><img src="/screenshots/seller_form.png" width="250" height="auto"></p><br></br>
-    - Educational Section:
-    - Sustainability:
+    - Educational Section: <br>
+    - Sustainability: <br>
 <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="250" height="auto"></p><br></br>
 - When a greenovation product is added to the cart it is indicated with "Eco-Friendly" mark. Two added buttons, "Feedback" and "Return the box", are added.
     - Feedback: This lets the customer to give review or report products that are incorrectly labelled.
