@@ -41,6 +41,6 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - After the product is received, two new buttons, "Feedback" and "Return the box", are also available on the website.
     - Feedback: This allows the customers to give their reviews or report products that are incorrectly labeled.
     - Return the box: After enough number of customers click this buttton, and a pre-decided threshold of that area is reached, the customer is notified with the date and time of pick-up.<br>
-    <p align="center"><img src="/screenshots/feedback.gif" width="700" alt="Alt Text"></p>
+    <p align="center"><img src="/screenshots/feedgif.gif" width="700" alt="Alt Text"></p>
 - When the boxes are collected, the customer is awarded with green bits, which can later be used for redeeming coupons and offers. Customers can keep track of     their green bits and other sustainability statistics with the help of this dashboard.<br>
     <p align="center"><img src="/screenshots/dashboard.gif" width="700" alt="Alt Text"></p>
