@@ -24,9 +24,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 ## Guide
 
 - This button in the main amazon website takes us to "Greenovation Zone", the new section for eco friendly products.<br>
-      <video width="320" height="240" controls>
-            <source src="/screenshots/greenovation_button.mp4" type="video/mp4">
-      </video>
+[![Video](/screenshots/greenovation_button.png)](/screenshots/greenovation_button.mp4)
 - If an alternative greenovation product for an ordinary product is available, this button will take the customers to that product.<br>
     <br><img src="/screenshots/available_button.png" width="250"><br><br>
 - Inside the Greenovation Zone, the products are assigned these badges that rate them according to their sustainability levels.<br>
