@@ -23,22 +23,22 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 
 ## Guide
 
-- This button takes us to our newly created platform for eco-friendly products.<br>
+- This button in the main amazon website takes us to "Greenovation Zone", the new section for eco friendly products.<br>
     <br><img src="/screenshots/greenovation_button.png" width="250"><br><br>
-- If an alternative greenovation product to an ordinary product is available, this button will be visible to the customers.<br>
+- If an alternative greenovation product for an ordinary product is available, this button will take the customers to that product.<br>
     <br><img src="/screenshots/available_button.png" width="250"><br><br>
-- Inside the Greenovation Zone, the products contain these badges which indicate their validity.<br>
+- Inside the Greenovation Zone, the products are assigned these badges that rate them according to their sustainability levels.<br>
     <br><img src="/screenshots/badges.png" width="250"><br><br>
-- The customer can see futher details about the green parameters of the product on hovering over the badge.<br>
+- Customers can see futher details about the manufacturing parameters of the product after hovering over the badge.<br>
     <br><img src="/screenshots/badge_parameters.png" width="250"><br><br>
 - The greenovation navbar contains new sections like
       <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="500" ></p>
-    - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.<br>
-    - Educational Section: <br>
-    - Sustainability: <br>
-- When a greenovation product is added to the cart it is indicated with "Eco-Friendly" mark. Two added buttons, "Feedback" and "Return the box", are added.
-    - Feedback: This lets the customer to give review or report products that are incorrectly labelled.
-    - Return the box: When a person clicks this button, and when a pre-defined threshold of that area is reached, then the customer is notified with the date of pick-up.<br>
+    - Seller: In this section Amazon sellers can enlist their products in the Greenovation Zone after providing details about the manufacturing of their products.<br>
+    - Educational Section: This section aims to inform and educate customers about our ZERO WASTE INITIATIVE. <br>
+    - Sustainability Reports: Consists of Amazon's annual sustainability reports and the initiatives that it takes to reduce its carbon footprint. <br>
+- When a greenovation product is added to the cart it is accomapnied by an "Eco-Friendly" sign. Two added buttons, "Feedback" and "Return the box", are also available.
+    - Feedback: This allows the customers to give their reviews or report products that are incorrectly labeled.
+    - Return the box: After enough number of customers click this buttton, and a pre-decided threshold of that area is reached, the customer is notified with the date and time of pick-up.<br>
     <p align="center"><img src="/screenshots/feedback_and_returnbox.png" width="700"></p>
-- When the boxes are collected, the customer is awarded with green bits, which can later be used for redeeming coupons and offers. Customers can keep track of     their green bits and other eco-friendly data with the help of this dashboard.<br>
+- When the boxes are collected, the customer is awarded with green bits, which can later be used for redeeming coupons and offers. Customers can keep track of     their green bits and other sustainability statistics with the help of this dashboard.<br>
     <p align="center"><img src="/screenshots/dashboard.png" width="700"></p>
