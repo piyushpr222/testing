@@ -32,7 +32,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - The customer can see futher details about the green parameters of the product on hovering over the badge.<br>
     <br><img src="/screenshots/badge_parameters.png" width="250"><br><br>
 - The greenovation navbar contains new sections like
-    <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="500" ></p>
+      <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="500" ></p>
     - Seller: Amazon sellers can enlist their products to the greenovation zone after providing additional details about their products.<br>
     - Educational Section: <br>
     - Sustainability: <br>
