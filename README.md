@@ -32,7 +32,7 @@ Our project integrates a web-based e-commerce platform with Amazon, with a focus
 - Customers can see futher details about the manufacturing parameters of the product after hovering over the badge.<br>
     <br><img src="/screenshots/badge_parameters.png" width="250"><br><br>
 - The greenovation navigation bar contains new sections like
-      <p align="center"><img src="/screenshots/navbargreen_buttons.png" width="500" ></p>
+      <img src="/screenshots/navbargreen_buttons.png" width="500" >
     - Seller: In this section Amazon sellers can enlist their products in the Greenovation Zone after providing details about the manufacturing of their products.<br>
     - Educational Section: This section aims to inform and educate customers about our ZERO WASTE INITIATIVE. <br>
     - Sustainability Reports: Consists of Amazon's annual sustainability reports and the initiatives that it takes to reduce its carbon footprint. <br><br>
